@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Times Series Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer eget aliquet nibh praesent tristique magna. Fermentum iaculis eu non diam.
+**Shampoo Sales Analysis** [Notebook](https://leogs.github.io/html/shampoo_sales.html) | [Repository](https://github.com/leogs/time_series_analysis)
 
 ### Natural Language Processing
 
